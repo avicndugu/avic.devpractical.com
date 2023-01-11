@@ -10,4 +10,4 @@ show_call_box: false
 
 # Hugo and Jekyll Web Development
 
-Convert your website design into reality using Hugo and Jekyll. Custom-built, fast and secure. Trust me to bring your unique vision to life. Contact me today.
+Convert your website design into reality using Hugo and Jekyll. Custom-built, fast and secure. Contact me today.
