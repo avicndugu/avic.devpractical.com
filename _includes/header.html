@@ -2,7 +2,9 @@
   <div class="container">
     <div class="logo">
       <a href="{{ site.baseurl }}">
+        {% comment %}
         <img width="{{ site.logo.desktop_width }}" height="{{ site.logo.desktop_height }}" alt="{{ site.title }}" src="{{ site.logo.desktop | relative_url }}" />
+        {% endcomment %}
         <h2 class="title">{{site.title}}</h2>
       </a>
     </div>
