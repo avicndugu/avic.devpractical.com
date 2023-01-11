@@ -5,9 +5,9 @@ description: Get Your marketing, blog, documentation and portfolio websites buil
 intro_image: "images/illustrations/pointing.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
-show_call_box: true
+show_call_box: false
 ---
 
-# Hugo & Jekyll Web Development - Avic Ndugu
+# Hugo and Jekyll Web Development
 
 Convert your website design into reality using Hugo and Jekyll. Custom-built, fast and secure. Trust me to bring your unique vision to life. Contact me today.
